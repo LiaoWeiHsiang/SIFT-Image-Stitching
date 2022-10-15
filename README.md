@@ -21,7 +21,7 @@ In this part, we need to find the keypoints which exist in various scale-space. 
 <!-- ![](https://i.imgur.com/hsbePXY.jpg) -->
 ### DOG(Difference of Gaussian kernel)
 This process is done for different octaves of the image in the Gaussian Pyramid. It is represented in below image:
-![](document/dog-1.jpg)
+![](document/dog-1.png)
 
 #### Image1
 ![](document/dog-2.jpg)
