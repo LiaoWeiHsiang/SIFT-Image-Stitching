@@ -4,7 +4,7 @@
 
 We implement SIFT to find the correspondes between two image and stitch them. 
 <!-- ![](https://i.imgur.com/t5GQzh6.jpg) -->
-![](https://i.imgur.com/8zaXXQc.jpg)
+![](document/parrington.jpg)
 
 ![](https://i.imgur.com/q5rnZdh.jpg)
 
