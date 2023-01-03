@@ -45,6 +45,8 @@ Now we have scale invariance. The next thing is to assign an orientation to each
 
 A neighborhood is taken around the keypoint location depending on the scale, and the gradient magnitude and direction is calculated in that region. An orientation histogram with 36 bins covering 360 degrees is created. Let's say the gradient direction at a certain point (in the “orientation collection region”) is 18.759 degrees, then it will go into the 10–19-degree bin. And the “amount” that is added to the bin is proportional to the magnitude of the gradient at that point. Once you’ve done this for all pixels around the keypoint, the histogram will have a peak at some point.
 
+![](document/keypoint_descriptor.jpg)
+
 ![](document/Orientation.jpg)
 
 ![](document/Orientation_function.PNG.PNG)
