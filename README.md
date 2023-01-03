@@ -47,7 +47,7 @@ A neighborhood is taken around the keypoint location depending on the scale, and
 
 ![](document/Orientation.jpg)
 
-![](document/Orientation assignment.PNG)
+![](document/Orientation_function.PNG.PNG)
 
 The highest peak in the histogram is taken and any peak above 80% of it is also considered to calculate the orientation. It creates keypoints with same location and scale, but different directions. It contributes to the stability of matching.
 
